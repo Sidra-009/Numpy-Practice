@@ -1,4 +1,4 @@
-# NumPy Basics Practice 🐍📊
+# NumPy Practice 🐍📊
 
 This repository contains my practice work on **NumPy**, one of the most popular Python libraries for numerical computing.  
 It includes examples of array creation, indexing, slicing, broadcasting, random number generation, mathematical operations, and visualization with Matplotlib.
@@ -77,6 +77,5 @@ Copy code
 pip install numpy matplotlib
 ✨ Author
 Sidra Saqlain
-📧 Email: sidrasaqlain11@gmail.com
 
 🌟 If you find this helpful, don’t forget to give the repo a ⭐!
