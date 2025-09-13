@@ -41,12 +41,12 @@ The file demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/numpy-basics-practice.git
+git clone https://github.com/<your-username>/numpy-practice.git
 Navigate into the repo:
 
 bash
 Copy code
-cd numpy-basics-practice
+cd numpy-practice
 Run the Python file (or open in Jupyter Notebook):
 
 bash
