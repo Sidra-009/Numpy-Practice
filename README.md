@@ -41,7 +41,7 @@ The file demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/numpy-practice.git
+https://github.com/Sidra-009/Numpy-Practice.git
 Navigate into the repo:
 
 bash
